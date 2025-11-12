@@ -1,12 +1,73 @@
-# Sesac-WiSoft
+# AI 기반 맞춤형 면접 코치 플랫폼
 
-<!--
+> AI가 제공하는 맞춤형 면접 질문과 피드백으로 취업 준비의 부담을 덜어주는 플랫폼
 
-**Here are some ideas to get you started:**
+## 프로젝트 소개
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+취준생의 **71.9%** 가 면접을 가장 어려워하고, **5명 중 3명**이 면접 들러리 경험을 겪는 현실에서 출발한 프로젝트입니다.
+
+AI 기술을 활용하여 사용자의 직업군에 맞는 면접 질문을 정기적으로 제공하고, 답변에 대한 상세한 피드백과 점수를 제공하여 실전 면접 준비를 돕습니다.
+
+### 주요 기능
+
+- **맞춤형 면접 질문 생성**: 사용자의 직업군(개발자, 디자이너, 기획자 등)에 최적화된 AI 기반 면접 질문 제공
+- **정기 알림 시스템**: 이메일 또는 카카오톡으로 면접 질문을 매일 또는 주간 단위로 전송
+- **AI 기반 피드백**: 답변에 대한 점수(0-100점), 잘한 점, 개선할 점, 추천 학습 자료 제공
+- **리워드 시스템**: 획득한 점수로 쿠폰 및 상품 교환 가능
+- **답변 히스토리 관리**: 과거 답변과 피드백을 한눈에 확인
+
+## 기술 스택
+
+### Backend
+- Node.js / NestJS
+- Java
+- PostgreSQL
+
+### Frontend
+- React 
+- TypeScript
+
+### AI & External APIs
+- OpenAI API (면접 질문 생성 및 피드백)
+- Ollama
+- [한국고용정보원 워크넷 API](https://www.data.go.kr/data/3038225/openapi.do)
+
+## 주요 흐름
+
+### 1. 회원가입 및 설정
+1. 이메일/비밀번호로 회원가입 또는 로그인
+2. 직업군 선택 (개발자, 디자이너, 기획자 등)
+3. 질문 수신 주기 설정 (매일/주 1회)
+
+### 2. 면접 질문 수신
+1. 설정한 주기에 따라 이메일/카카오톡으로 면접 질문 수신
+2. "답변하러 가기" 버튼을 통해 웹사이트 접속
+3. 면접 질문에 대한 답변 작성
+
+### 3. AI 피드백 및 점수 획득
+1. AI가 답변을 분석하여 피드백 제공
+   - 점수 (0-100점)
+   - 잘한 점
+   - 개선할 점
+   - 추천 학습 자료
+2. 획득한 점수로 리워드 누적
+
+### 4. 리워드 및 히스토리
+1. 나의 리워드 페이지에서 누적 점수 확인
+2. 쿠폰 및 상품 교환
+3. 과거 답변 및 피드백 히스토리 조회
+
+## 참고 자료
+
+- [취준생 5명 중 3명 '면접 들러리 경험'](https://www.metroseoul.co.kr/article/20210923500077)
+- [잡코리아 "구직자 46%, 채용 절차 중 면접 가장 어려워해"](https://www.donga.com/news/Economy/article/all/20240508/124841140/1)
+- [인잡핏 면접 실태 조사: 취준생 71.9% "면접이 가장 어렵다"](https://www.dhnews.co.kr/news/view/1065585199757801)
+
+
+## 팀
+- 팀장: [문동민](https://github.com/MoonDongmin)
+- 팀원: [신보연](https://github.com/Boyeon-Shin)
+- 팀원: [이은채](https://github.com/wanyam2)
+- 팀원: [왕우민](https://github.com/Woomin-Wang)
+
+이 프로젝트는 대회 출품을 목적으로 개발되었습니다.
