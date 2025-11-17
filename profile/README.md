@@ -4,6 +4,8 @@
 매일, 혹은 매주 - 당신에게 꼭 맞는 면접 질문 • 답변 • 피드백 제공
 
 <img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/b4b5b1e5-65e7-41da-af04-985bf98f0d3a" />
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/23f0811f-15aa-4736-8cf2-003489c5a725" />
+
 
 
 ## 프로젝트 소개
