@@ -128,6 +128,7 @@
 </tr>
 </table>
 
+<br/>
 
 ## 기술 스택
 
@@ -144,6 +145,8 @@
 - OpenAI API (면접 질문 생성 및 피드백)
 - Ollama 모델 
 - [한국고용정보원 워크넷 API](https://www.data.go.kr/data/3038225/openapi.do)
+
+<br/>
 
 ## 주요 흐름
 
@@ -171,12 +174,15 @@
 2. 쿠폰 및 상품 교환
 3. 과거 답변 및 피드백 히스토리 조회
 
+<br/>
+
 ## 참고 자료
 
 - [취준생 5명 중 3명 '면접 들러리 경험'](https://www.metroseoul.co.kr/article/20210923500077)
 - [잡코리아 "구직자 46%, 채용 절차 중 면접 가장 어려워해"](https://www.donga.com/news/Economy/article/all/20240508/124841140/1)
 - [인잡핏 면접 실태 조사: 취준생 71.9% "면접이 가장 어렵다"](https://www.dhnews.co.kr/news/view/1065585199757801)
 
+<br/>
 
 ## 👥 팀원 소개
 역할 | 팀장 | 팀원 | 팀원 | 팀원 |
