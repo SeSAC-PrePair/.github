@@ -1,12 +1,15 @@
 <div align="center">
 
-# PrePair
+# PrePair 
+
 
 ### 완벽한 면접 준비를 위한 AI 파트너
 
 **Prepare** + **Pair** = **PrePair**
 _당신의 면접 준비, AI와 함께 완성하세요_  
-[(프로젝트 기획서)](https://github.com/SeSAC-PrePair/project-proposal/blob/main/%5BPrePair%5D%20%EA%B8%B0%ED%9A%8D%EC%84%9C(pdf).pdf)
+
+### [[프로젝트 기획서]](https://github.com/SeSAC-PrePair/project-proposal/blob/main/%5BPrePair%5D%20%EA%B8%B0%ED%9A%8D%EC%84%9C(pdf).pdf)
+
 
 
 <br/>
